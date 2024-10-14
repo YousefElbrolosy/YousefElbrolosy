@@ -19,7 +19,7 @@ These are some of my university projects.
 | Course   | Link                                                      |
 |----------|-----------------------------------------------------------|
 | Networks | [RDTv2.2 Protocol](https://github.com/YousefElbrolosy/RDTv2.2-Protocol-Project)     |
-| Databases I | [DB Project](https://github.com/YousefElbrolosy/University-Advising-System)    |
+| Databases I | [University Advising System Database](https://github.com/YousefElbrolosy/University-Advising-System)    |
 
 ### Semester 6
 | Course                  | Link                                                                                     |
@@ -52,7 +52,8 @@ Here are some of the projects I worked on:
 ### QUBIT GUC's Quantum Computing Club
 
 Check out the quantum computing community I co-founded at my university:
-- [QUBIT](https://www.linkedin.com/company/qubit-guc-quantum-computing-club)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/qubit-guc-quantum-computing-club) 
 
 
 # 💻 Tech Stack:
