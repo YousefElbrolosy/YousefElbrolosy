@@ -5,6 +5,8 @@
 - I play the electric guitar 🎸
 
 # 🎯 Projects
+Below are some of my university and personal projects. 
+
 
 ## 🎓 GUC Projects:
 These are some of my university projects.
