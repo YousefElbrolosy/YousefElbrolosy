@@ -2,9 +2,6 @@
 I'm a passion-driven student interested in quantum computing, AI, and software engineering.<br> I am currently a part-time quantum machine learning intern @GUC and a full-time science/tech enthusiast.
 
 # 🎓 GUC Projects:
-On June 2022, I started an initiative to archive all GUC projects created by me and other colleagues at GUC, so future students can use these as references, inspiration, or for learning. Interested? Check it out [here](https://github.com/mathewahny/guc-projects).
-
-If you are just interested in my projects, here you go:
 
 ### Semester 4
 | Course                          | Link                                                                   |
