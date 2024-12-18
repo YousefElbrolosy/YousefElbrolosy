@@ -33,6 +33,22 @@ These are some of my university projects.
 | Computer Architecture   | [Von Neuman Computer Architecture C Simulator](https://github.com/YousefElbrolosy/Spicy-Von-Neumann-Fillet-with-extra-shifts) |
 | Software Engineering    | [Hand in Hand (Donation Website)](https://github.com/NadaALazab/Pooh-Party)              |
 
+### Semester 7
+| Course                  | Link                                                                                     |
+|-------------------------|------------------------------------------------------------------------------------------|
+| Advanced Computing Lab  | [Rahhal - Full Stack Travel Website](https://github.com/Advanced-computer-lab-2024/Rahhal) |
+| MicroProcessors         | [Tomasulo System Simulator](https://github.com/MohamedEmadFahmy/tomasulo-algorithm)      |
+| Computer Graphics Assignment 1 | [Infinite Runner 2D OpenGl Game](https://github.com/YousefElbrolosy/InfiniteRunner) |
+| Computer Graphics Assignment 2 | [Javelin Thrower Olympics inspired 3D OpenGl game](https://github.com/YousefElbrolosy/Javelin-Thrower-3D-OpenGl-Game) |
+| Computer Graphics Project | [Greedy Taxi a multi level OpenGl 3D Game](https://github.com/mahmoudahroug/Greedy-Taxi) |
+| Analysis and Design of Algorithms Assignment 1 | [Minimal RingToss Greedy Algorithm](https://github.com/YousefElbrolosy/RingToss-Greedy-Algorithm) |
+| Analysis and Design of Algorithms Assignment 2 | [Dynamic Arena DP Algorithm](https://github.com/nadinetarikk/DynamicArena-DP-Algorithm) |
+| Embedded System Architecture | [Car Blind Spot detection system](https://github.com/nadinetarikk/Blind_Spot_Detection_System)|
+
+
+
+
+
 ## ✨ Quantum Computing Projects
 
 - [Quantum Memory Game](https://github.com/YousefElbrolosy/Quantum-Memory-Game)
