@@ -24,6 +24,7 @@ These are some of my university projects.
 |----------|-----------------------------------------------------------|
 | Networks | [RDTv2.2 Protocol](https://github.com/YousefElbrolosy/RDTv2.2-Protocol-Project)     |
 | Databases I | [University Advising System Database](https://github.com/YousefElbrolosy/University-Advising-System)    |
+| Digitals System Design | [Security System Using FPGA](https://github.com/YousefElbrolosy/FPGA-Secure-The-Room) |
 
 ### Semester 6
 | Course                  | Link                                                                                     |
