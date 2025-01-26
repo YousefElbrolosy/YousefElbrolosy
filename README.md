@@ -54,6 +54,7 @@ These are some of my university projects.
 
 - [Quantum Memory Game](https://github.com/YousefElbrolosy/Quantum-Memory-Game)
 - [Quantum Ludo Game](https://github.com/YousefElbrolosy/Quantum-Ludo)
+- [Solving Vehicle Routing Problem using QAOA](https://github.com/YousefElbrolosy/VRP)
   
 
 ## AI, ML and Software Engineering
