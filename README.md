@@ -56,6 +56,8 @@ These are some of my university projects.
 - [Quantum Ludo Game](https://github.com/YousefElbrolosy/Quantum-Ludo)
 - [Solving Vehicle Routing Problem using QAOA](https://github.com/YousefElbrolosy/VRP)
 - [Gradient Ascent Pulse Engineering with Feedback Package](https://github.com/YousefElbrolosy/feedback-grape)
+- [Carpon Capture using VQE](https://github.com/YousefElbrolosy/carbon-capturing-alex-hackathon)
+- [Time Series Prediction using QGRU](https://github.com/FamALouiz/Quantum-Training-Pipeline)
 
 ## AI, ML and Software Engineering
 Here are some of the projects I worked on:
