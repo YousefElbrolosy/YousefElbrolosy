@@ -1,6 +1,6 @@
 # 💫 About Me:
 - I'm a passion-driven student interested in quantum computing, AI, and software engineering.
-- I am currently working at the Max Planck Institute for the Science of Light.
+- Ex Intern and Bachelor Student at the Max Planck Institute for the Science of Light.
 - I am also a former professional tennis player at Al-Ahly Club 🦅
 - I play the electric guitar 🎸
 
