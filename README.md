@@ -46,6 +46,18 @@ These are some of my university projects.
 | Analysis and Design of Algorithms Assignment 2 | [Dynamic Arena DP Algorithm](https://github.com/nadinetarikk/DynamicArena-DP-Algorithm) |
 | Embedded System Architecture | [Car Blind Spot detection system](https://github.com/nadinetarikk/Blind_Spot_Detection_System)|
 
+### Semester 9
+| Course                  | Link                                                                                     |
+|-------------------------|------------------------------------------------------------------------------------------|
+| Advanced Computing Lab  | [Fantasy Football RAG Trivia](https://github.com/YousefElbrolosy/fantasy-football-predictor) |
+| Data Engineering         | [Stock Prices ETL](https://github.com/YousefElbrolosy/stock-prices-data-engineering-project)      |
+| Optimization Techniques for Multi-Cooperative Systems | [Multi-Robot Path Planning Optimization](https://github.com/Amr-Hegazy1/Optimization-Project) |
+| Computer Vision Assignment 1 | [Face Detection Using Integral Image](https://github.com/RiadOmar/CV_assignment_1) |
+| Computer Vision Assignment 2 | [Corner Detection and Convex Hull Thresholding](https://github.com/YousefElbrolosy/CV-Assignment-2) |
+| Computer Vision Assignment 3 | [Background estimation and motion detection](https://github.com/youssefelshenawy/CV-Assignment-3) |
+| Artificial Intelligence Assignment 1| [Logic Based Agent](https://github.com/YousefElbrolosy/logic-based-agent) |
+| Artificial Intelligence Assignment 2| [Adverserial Search](https://github.com/youssefelshenawy/Adversarial-search)|
+
 
 
 
