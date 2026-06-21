@@ -59,6 +59,12 @@ These are some of my university projects.
 | Artificial Intelligence Assignment 2| [Adverserial Search](https://github.com/youssefelshenawy/Adversarial-search)|
 
 
+### Semester 10
+| Course                  | Link                                                                                     |
+|-------------------------|------------------------------------------------------------------------------------------|
+| Advanced Computing Lab  | [Uber Ride Hailing Platform - Using Microservices](https://github.com/dodzii/18-Scale-Ya-Dawly-Uber) |
+| Generative and Agentic AI | [Legal Document Analysis using GenAI](https://github.com/YousefElbrolosy/legal-document-analysis-using-genAI)      |
+| Computer and Network Security | [DDoS Detector System](https://github.com/GUC-CSEN1001-S26/project-team035) |
 
 
 
